@@ -13,11 +13,13 @@ Welcome system commands:
 > welcomesystem - turns on/off welcome system
 > welcomechannelset - sets channel to send welcome message
 > welcomemessageset - sets message to send when user joins the server
+> welcomesettings - view the welcome system settings
 
 Goodbye system commands:
 > goodbyesystem - turns on/off goodbye system
 > goodbyechannelset - sets channel to send goodbye message
 > goodbyemessageset - sets message to send when user leaves the server
+> goodbyesettings - view the goodbye system settings
 
 Moderation commands:
 > ban - bans user from server
