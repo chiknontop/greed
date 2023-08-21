@@ -1,4 +1,4 @@
-# Greed Command List
+Greed Command List
 
 Prefix commands:
 > selfprefix - sets your self prefix
