@@ -12,16 +12,16 @@ Information commands:
 > help - info on how to invite greed/support server
 
 Welcome system commands:
-> welcomesystem - turns on/off welcome system
-> welcomechannelset (channel) - sets channel to send welcome message
-> welcomemessageset (message) - sets message to send when user joins the server
-> welcomesettings - view the welcome system settings
+> welcome - turns on/off welcome system
+> welcome channel (channel) - sets channel to send welcome message
+> welcome message (message) - sets message to send when user joins the server
+> welcome settings - view the welcome system settings
 
 Goodbye system commands:
-> goodbyesystem - turns on/off goodbye system
-> goodbyechannelset (channel) - sets channel to send goodbye message
-> goodbyemessageset (message) - sets message to send when user leaves the server
-> goodbyesettings - view the goodbye system settings
+> goodbye - turns on/off goodbye system
+> goodbye channel (channel) - sets channel to send goodbye message
+> goodbye message (message) - sets message to send when user leaves the server
+> goodbye settings - view the goodbye system settings
 
 Moderation commands:
 > ban (user) {reason} - bans user from server
@@ -36,5 +36,10 @@ Moderation commands:
 > slowmode (seconds) {channel} - enables slowmode for channel
 > lock {channel} - makes users unable to speak in channel
 > unlock {channel} - make users allowed to speak in channel
-> rolealladd (role) - adds certain role to all members
-> roleallremove (role) - removes certain role from all members
+> roleall add (role) - adds certain role to all members
+> roleall remove (role) - removes certain role from all members
+
+Utility Commands:
+> av {user} - returns users avatar
+> banner {user} - returns users banner
+> serverinfo - returns server info
