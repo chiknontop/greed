@@ -43,3 +43,4 @@ Utility Commands:
 > av {user} - returns users avatar
 > banner {user} - returns users banner
 > serverinfo - returns server info
+> membercount - returns servers member count
