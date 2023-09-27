@@ -23,6 +23,17 @@ Goodbye system commands:
 > goodbye message (message) - sets message to send when user leaves the server
 > goodbye settings - view the goodbye system settings
 
+Ping on join system commands:
+> pingonjoin - enables/disables ping on join system
+> pingonjoin channel (channel) - sets ping on join channel
+> pingonjoin message (message) - sets ping on join message
+> pingonjoin delay (seconds) - sets ping on join delay
+> pingonjoin settings - returns ping on join settings
+
+Giveaway system commands:
+> giveaway - starts the giveaway proccess
+> gstop (message-id) - ends giveaway early
+
 Moderation commands:
 > ban (user) {reason} - bans user from server
 > kick (user) {reason} - kicks user from server
@@ -44,3 +55,6 @@ Utility Commands:
 > banner {user} - returns users banner
 > serverinfo - returns server info
 > membercount - returns servers member count
+> servericon - returns guilds icon
+> serverbanner - returns server banner
+> firstmessage - returns link to first message sent in channel.
