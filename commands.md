@@ -58,3 +58,11 @@ Utility Commands:
 > servericon - returns guilds icon
 > serverbanner - returns server banner
 > firstmessage - returns link to first message sent in channel.
+> screenshot (url) - returns screenshot of givin url
+> boostcount - returns servers boost count
+> boosters - returns a paginator embed of server boosters
+> texttospeach (text) - turns text in to text to speach
+> addemoji (emoji) {name} - steals emoji from a server and adds it to yours
+> urban (word) - return definition of givin word
+> userinfo {user} - returns users info
+> xbox (gamertag) - returns info on users xbox profile
