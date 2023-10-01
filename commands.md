@@ -66,3 +66,17 @@ Utility Commands:
 > urban (word) - return definition of givin word
 > userinfo {user} - returns users info
 > xbox (gamertag) - returns info on users xbox profile
+> instagraminfo (username) - returns info on users instagram profile
+> instagrampost (url) - returns info about instagram post
+> setguildicon (image) - sets the guilds icon
+> setguildbanner (image) - sets the guilds banner
+> setguildsplash (image) - sets the guilds splash
+> reverseimg (image) - returns reverse image information
+> reverseav (user) - returns reverse image on avatar information
+
+NSFW Commands:
+> hentai - returns image/gifs of hentai
+> boobs - returns image/gif/video of boobs
+> ass - returns image/gif/video of ass
+> milf - returns image/gif/video of milfs
+> ahegao - returns image/gif/video of ahegao
